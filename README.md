@@ -15,7 +15,7 @@ EBIMU_9DOFV2 센서를 이용한 roll,pitch,yaw 데이터를 Matplot 그래프�
 |---|---|
 |USB PORT|5PIN PORT|
 
-### case 2 - 4, 5번 핀으로 시리얼 통신
+### case 2 - UART 시리얼 통신
 |Raspberry pi|센서|
 |---|---|
 |5V|VIN|
